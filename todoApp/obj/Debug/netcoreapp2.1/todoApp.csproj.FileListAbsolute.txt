@@ -1,0 +1,11 @@
+C:\Users\Magnus\Documents\todoApp\bin\Debug\netcoreapp2.1\todoApp.deps.json
+C:\Users\Magnus\Documents\todoApp\bin\Debug\netcoreapp2.1\todoApp.runtimeconfig.json
+C:\Users\Magnus\Documents\todoApp\bin\Debug\netcoreapp2.1\todoApp.runtimeconfig.dev.json
+C:\Users\Magnus\Documents\todoApp\bin\Debug\netcoreapp2.1\todoApp.dll
+C:\Users\Magnus\Documents\todoApp\bin\Debug\netcoreapp2.1\todoApp.pdb
+C:\Users\Magnus\Documents\todoApp\obj\Debug\netcoreapp2.1\todoApp.csprojAssemblyReference.cache
+C:\Users\Magnus\Documents\todoApp\obj\Debug\netcoreapp2.1\todoApp.csproj.CoreCompileInputs.cache
+C:\Users\Magnus\Documents\todoApp\obj\Debug\netcoreapp2.1\todoApp.AssemblyInfoInputs.cache
+C:\Users\Magnus\Documents\todoApp\obj\Debug\netcoreapp2.1\todoApp.AssemblyInfo.cs
+C:\Users\Magnus\Documents\todoApp\obj\Debug\netcoreapp2.1\todoApp.dll
+C:\Users\Magnus\Documents\todoApp\obj\Debug\netcoreapp2.1\todoApp.pdb
